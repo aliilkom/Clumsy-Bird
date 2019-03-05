@@ -63,14 +63,14 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 #### Pembahasan
 
-- Clumsy Bird adalah game tentang burung yang terbang pada jarak tertentu dan menghindari semua rintangan selama penerbangan yang terjadi di dunia retro Flappy Bird. Memainkan permainan Clumsy bird bertujuan untuk mendapatkan skor tinggi dan berusaha mengalahkan skor terbaik didapatkan sebelumnya yang dilakukan secara berulang-ulang. Clumsy Bird adalah versi retro dari Flappy Bird.
+- Clumsy Bird adalah game tentang burung yang terbang pada jarak tertentu dan menghindari semua rintangan selama penerbangan yang terjadi di dunia retro Flappy Bird. Memainkan permainan Clumsy Bird bertujuan untuk mendapatkan skor tinggi dan berusaha mengalahkan skor terbaik didapatkan sebelumnya yang dilakukan secara berulang-ulang. Clumsy Bird adalah versi retro dari Flappy Bird.
     - kelebihan
-    	Kelebihan dari Clumsy bird sendiri sebetul sama dengan game pendahulunya yaitu Flappy Bird. Keduanya sama-sama merupakan game 		yang dibuat sederhana namun memiliki tingkat kesulitan yang tinggi, sehingga membuat pemain game ini merasakan sensasi pensaaran 	 yang membuat mereka ingin selalu mencobanya berulang kali. Selain itu, pemain memiliki jangkauan yang luas untuk melihat 		rintang-rintangan yang akan di hadapinya, sedangkan pada flappy bird jangkauannya lebih sempit 
+	Clumsy bird memiliki kelebihan yang hampir sama dengan game pendahulunya yaitu Flappy Bird. Keduanya sama-sama merupakan 		game yang dibuat sederhana namun memiliki tingkat kesulitan yang tinggi, sehingga membuat pemain game ini merasakan sensasi 		pensaaran yang membuat mereka ingin selalu mencobanya berulang kali. Selain itu, pemain memiliki jangkauan yang luas untuk 		melihat rintang-rintangan yang akan di hadapinya, sedangkan pada Flappy Bird jangkauannya lebih sempit. 
     - kekurangan
-    	Clumsy bird memiliki banyak kesamaan dengan flappy bird sehingga terlalu terkesan seperti flappy bird yang dibuat ulang. Burung 	yang menjadi karakter utamanya pun terkesan kaku saat dimainkan. Sayap pada burung saat tebang tidak bergerak, sedangkan oada 		flappy bird bergerak saat dia akan terbang naik ke atas. Selain itu tidak tampilan higscorenya hanya berupa tabel statis yang 		tidak bisa di klik.
-
-
-
+    	Clumsy Bird memiliki banyak kesamaan dengan Flappy Bird sehingga terlalu terkesan seperti Flappy Bird yang dibuat ulang. Burung 	yang menjadi karakter utamanya pun terkesan kaku saat dimainkan. Sayap pada burung saat tebang tidak bergerak, sedangkan pada 		Flappy Bird bergerak saat dia akan terbang naik ke atas. Selain itu, Menu yang ditampilkan Clumsy Bird lebih sedikit 			dibandingkan Flappy Bird
+Visualisasi Perbedaan Clumsy Bird dan Flappy Bird
+![](https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/clumsy1.PNG)
+![](https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/flappy.PNG)
 ## Referensi
 
 Cantumkan tiap sumber informasi yang anda pakai.
