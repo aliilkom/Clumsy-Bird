@@ -18,6 +18,7 @@
     ```
     $ sudo apt-get install git
 	```
+	https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/Screenshot1.png
 	
 2. Lakukan clone dengan mengetik
 	```
@@ -25,6 +26,7 @@
 	```
 
 4. Kemudian masuk ke direktori folder clumsy yang telah diclone dengan mengetik
+
 	```
     $ cd  clumsy-bird
     ```
