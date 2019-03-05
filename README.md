@@ -10,7 +10,7 @@
 #### Kebutuhan Sistem :
 - OS Linux (Ubuntu).
 - Git.
-- NogeJs.
+- NodeJs.
 - Grunt.
 
 #### Proses Instalasi :
@@ -44,7 +44,7 @@
     $ https://0.0.0.0:8001
     ```
     
-#### KOnfigurasi (Opsional)
+#### Konfigurasi (Opsional)
 Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
 - batas upload file.
 - batas memori.
