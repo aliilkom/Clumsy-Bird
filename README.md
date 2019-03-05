@@ -1,6 +1,6 @@
 # Sekilas Tentang
 [`^ kembali ke atas ^`](#)
-![](https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/Screenshot3.png)
+
 **Clumsy Bird** adalah game terbang yang terjadi di dunia retro Flappy Bird. Ini semua tentang membantu burung terbang pada jarak tertentu dan menghindari semua rintangan selama penerbangan. Anda harus memainkan permainan untuk skor tinggi dan berusaha mengalahkan skor terbaik Anda setiap kali Anda mengulangnya. **Clumsy Bird** adalah versi retro dari Flappy Bird.
 
 
@@ -23,18 +23,20 @@
 	```
     $ git clone git://github.com/ellisonleao/clumsy-bird
 	```
-	![](https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/Screenshot1.png)
+	![](https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/ss1.PNG)
 	
 4. Kemudian masuk ke direktori folder clumsy yang telah diclone dengan mengetik
 
 	```
     $ cd  clumsy-bird
+    
+    ![](https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/ss2.PNG)
     ```
 5. Setelah itu, instal NodeJs dengan cara mengetik
     ```
     $ sudo npm install
     ```
-    
+    ![](https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/ss3.PNG)
 6. Tunggu proses download sampai selesai, kemudian jalankan grunt dengan mengetik 
 	```
     $ grunt connect
@@ -45,7 +47,7 @@
 	```
     $ https://0.0.0.0:8001
     ```
-    
+    ![](https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/Screenshot3.png)
 #### Konfigurasi (Opsional)
 Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
 - batas upload file.
