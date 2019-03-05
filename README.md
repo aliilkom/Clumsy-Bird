@@ -37,12 +37,12 @@
     ```
     $ sudo npm install
     ```
-    ![](https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/ss3.PNG)
+    ![](https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/Screenshot/ss3.PNG)
 6. Tunggu proses download sampai selesai, kemudian jalankan grunt dengan mengetik 
 	```
     $ grunt connect
     ```
-    ![](https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/Screenshot2.png)
+    ![](https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/Screenshot/Screenshot2.png)
     
 7. 	Setelah itu game sudah dapat dijalankan pada local dengan membuka pada browser
 	```
