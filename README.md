@@ -77,8 +77,5 @@ Visualisasi Perbedaan Clumsy Bird dan Flappy Bird
 ![](https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/clumsy1.PNG)
 ![](https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/flappy.PNG)
 ## Referensi
-
-Cantumkan tiap sumber informasi yang anda pakai.
-
-
-
+- https://medium.com/ellisonleao/clumsy-bird-an-open-source-flappy-bird-clone-cf615724730f 
+- https://github.com/ellisonleao/clumsy-bird
