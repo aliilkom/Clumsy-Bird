@@ -18,7 +18,7 @@
     ```
     $ sudo apt-get install git
 	```
-	https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/Screenshot1.png
+	![](https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/Screenshot1.png)
 	
 2. Lakukan clone dengan mengetik
 	```
