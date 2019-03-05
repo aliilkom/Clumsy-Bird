@@ -1,6 +1,8 @@
 # Sekilas Tentang
 [`^ kembali ke atas ^`](#)
 
+![](https://mobimg.b-cdn.net/androidgame_img/clumsy_bird/real/2_clumsy_bird.jpg)
+
 **Clumsy Bird** adalah game terbang yang terjadi di dunia retro Flappy Bird. Ini semua tentang membantu burung terbang pada jarak tertentu dan menghindari semua rintangan selama penerbangan. Anda harus memainkan permainan untuk skor tinggi dan berusaha mengalahkan skor terbaik Anda setiap kali Anda mengulangnya. **Clumsy Bird** adalah versi retro dari Flappy Bird.
 
 
