@@ -40,6 +40,7 @@
 	```
     $ grunt connect
     ```
+    ![](https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/Screenshot2.png)
     
 7. 	Setelah itu game sudah dapat dijalankan pada local dengan membuka pada browser
 	```
