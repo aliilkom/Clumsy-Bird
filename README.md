@@ -49,24 +49,6 @@
     $ https://0.0.0.0:8001
     ```
     ![](https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/Screenshot3.png)
-#### Konfigurasi (Opsional)
-Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
-- batas upload file.
-- batas memori.
-- dll.
-
-#### Plugin untuk fungsi tambahan
-Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
-- login dengan Google/Facebook.
-- editor Markdown.
-- dll.
-
-####  Maintenance (opsional)
-
-Setting tambahan untuk maintenance secara periodik, misalnya:
-- buat backup database tiap pekan
-- hapus direktori sampah tiap hari
-- dll
 
 #### Otomatisasi (opsional)
 
@@ -81,10 +63,12 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 #### Pembahasan
 
-- Pendapat anda tentang aplikasi web ini
+- Clumsy Bird adalah game tentang burung yang terbang pada jarak tertentu dan menghindari semua rintangan selama penerbangan yang terjadi di dunia retro Flappy Bird. Memainkan permainan Clumsy bird bertujuan untuk mendapatkan skor tinggi dan berusaha mengalahkan skor terbaik didapatkan sebelumnya yang dilakukan secara berulang-ulang. Clumsy Bird adalah versi retro dari Flappy Bird.
     - kelebihan
+    	Kelebihan dari Clumsy bird sendiri sebetul sama dengan game pendahulunya yaitu Flappy Bird. Keduanya sama-sama merupakan game 		yang dibuat sederhana namun memiliki tingkat kesulitan yang tinggi, sehingga membuat pemain game ini merasakan sensasi pensaaran 	 yang membuat mereka ingin selalu mencobanya berulang kali. Selain itu, pemain memiliki jangkauan yang luas untuk melihat 		rintang-rintangan yang akan di hadapinya, sedangkan pada flappy bird jangkauannya lebih sempit 
     - kekurangan
-- Bandingkan dengan aplikasi web lain yang sejenis
+    	Clumsy bird memiliki banyak kesamaan dengan flappy bird sehingga terlalu terkesan seperti flappy bird yang dibuat ulang. Burung 	yang menjadi karakter utamanya pun terkesan kaku saat dimainkan. Sayap pada burung saat tebang tidak bergerak, sedangkan oada 		flappy bird bergerak saat dia akan terbang naik ke atas. Selain itu tidak tampilan higscorenya hanya berupa tabel statis yang 		tidak bisa di klik.
+
 
 
 ## Referensi
