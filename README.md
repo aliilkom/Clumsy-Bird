@@ -29,9 +29,8 @@
 
 	```
     $ cd  clumsy-bird
-    
-    ![](https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/ss2.PNG)
     ```
+      ![](https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/ss2.PNG)
 5. Setelah itu, instal NodeJs dengan cara mengetik
     ```
     $ sudo npm install
