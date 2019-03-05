@@ -48,7 +48,7 @@
 	```
     $ https://0.0.0.0:8001
     ```
-    ![](https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/Screenshot3.png)
+    ![](https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/Screenshot/Screenshot3.png)
 
 #### Otomatisasi (opsional)
 
@@ -59,11 +59,11 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 Pada tampilan awal kita disuguhkan dengan tampilan basic yang jika kita ingin memulai game cukup dengan mengklik background gambar yang ada atau mengklik tombol spasi  di keyboard dan jika ingin memute suara bisa klik huruf m di keyboard. pada tampilan selanjutnya game akan dimainkan yang dimana karakter utama yang dimainkan berupa burung yang dapat kita klik agar burungnya meloncat dan menghindari rintangan yang telah disediakan. dan kalau karakter utama tersebut mengenai rintangan yang ada maka akan muncul tampilan game over yang menyuruh kita untuk mengulang game dari awal lagi.
 
-![](https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/Screenshot3.png)
+![](https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/Screenshot/Screenshot3.png)
 
-![](https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/Screenshot4.png)
+![](https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/Screenshot/Screenshot4.png)
 
-![](https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/Screenshot5.png)
+![](https://raw.githubusercontent.com/aliilkom/Clumsy-Bird/master/Screenshot/Screenshot5.png)
 
 
 #### Pembahasan
